@@ -1,0 +1,14 @@
+#one{
+    background-color: #f00e3d;
+    text-align: center;
+}
+#two{
+    background-color: greenyellow;
+}
+.img{
+    width: 200px;
+}
+#three{
+    height: 1000px;
+    width: 1000px;
+}
